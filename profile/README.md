@@ -22,7 +22,7 @@
 | [정다운](https://github.com/wjdekdns1028) | [박종범](https://github.com/quakwhad) | [서연진](https://github.com/shtfh) | [장대영](https://github.com/hururu1234) |
 | <img src="https://github.com/wjdekdns1028.png" width="120"> | <img src="https://github.com/quakwhad.png" width="120"> | <img src="https://github.com/shtfh.png" width="120"> | <img src="https://github.com/hururu1234.png" width="120"> |
 
-### 🏆 AI
+### 🤖 AI
 | AI | AI | AI | AI |
 |:---:|:---:|:---:|:---:|
 | [김현민](https://github.com/hyunrnin) | [강미소](https://github.com/misokk) | [이창현](https://github.com/Best-Island-LCH) | [홍다보미](https://github.com/hongdabomi) | 

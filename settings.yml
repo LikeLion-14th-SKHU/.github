@@ -1,12 +1,12 @@
-# .github/settings.yml 파일 내용 예시
+# .github/settings.yml
 
 labels:
-  - name: "⚡ 가이드라인 미준수",
-    color: "d93f0b",
+  - name: "⚡ 가이드라인 미준수"
+    color: "d93f0b"
     description: "제출은 했으나 가이드라인 미준수인 경우입니다."
-  - name: "✅ 과제 통과",
-    color: "0e8a16",
+  - name: "✅ 과제 통과"
+    color: "0e8a16"
     description: "조지미에게 과제 확인을 받아 과제 통과한 상태입니다."
-  - name: "🦁 과제 제출",
-    color: "fbca04",
+  - name: "🦁 과제 제출"
+    color: "fbca04"
     description: "아기사자가 과제를 처음 제출한 상태입니다."

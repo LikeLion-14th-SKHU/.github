@@ -47,9 +47,9 @@
 | :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
 | <img src="https://github.com/Gozen03.png" width="120"> | <img src="https://github.com/Toypiles.png" width="120"> | <img src="https://github.com/oosohow.png" width="120">  | <img src="https://github.com/seongjunpark1.png" width="120"> | <img src="https://github.com/hj53.png" width="120"> |
 
-|          [방현서](https://github.com/shb00771122)          |          [양태윤](https://github.com/yangty07)          |          [장진혁](https://github.com/SalmonTuna04)          |          [전천우](https://github.com/i1000u)          |           [최성혁](https://github.com/choisunghyeok38)          |      
-| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
-| <img src="https://github.com/shb00771122.png" width="120"> | <img src="https://github.com/yangty07.png" width="120"> | <img src="https://github.com/SalmonTuna04.png" width="120">  | <img src="https://github.com/i1000u.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> |
+|          [양태윤](https://github.com/yangty07)          |          [장진혁](https://github.com/SalmonTuna04)          |          [전천우](https://github.com/i1000u)          |           [최성혁](https://github.com/choisunghyeok38)          |      
+| :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
+| <img src="https://github.com/yangty07.png" width="120"> | <img src="https://github.com/SalmonTuna04.png" width="120">  | <img src="https://github.com/i1000u.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> |
 
 ### 🤖 AI  
 

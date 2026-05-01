@@ -35,7 +35,7 @@
 
 |          [김나연](https://github.com/nnayyeon)          |          [김보민](https://github.com/bomin0214)          |          [김서령](https://github.com/seoryeong9)          |          [김석환](https://github.com/seokhawn01)          |           [문정우](https://github.com/moonjw727)          |      
 | :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
-| <img src="https://github.com/nnayyeon.png" width="120"> | <img src="https://github.com/bomin0214.png" width="120"> | <img src="https://github.com/seoryeong9.png" width="120"> | <img src="https://github.com/seokhawn01.png" width="120"> | <img src="https://github.com/Sonsolha.png" width="120"> | <img src="https://github.com/moonjw727.png" width="120"> |
+| <img src="https://github.com/nnayyeon.png" width="120"> | <img src="https://github.com/bomin0214.png" width="120"> | <img src="https://github.com/seoryeong9.png" width="120"> | <img src="https://github.com/seokhawn01.png" width="120"> | <img src="https://github.com/moonjw727.png" width="120"> |
 
 |          [신재호](https://github.com/jaehoshin22)          |          [이우빈](https://github.com/0xwb7)          |          [이채원](https://github.com/gardenoflight271)          |          [이학준](https://github.com/hakjun0501)          |           [정희정](https://github.com/heejung417)          |      
 | :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
@@ -43,13 +43,13 @@
 
 ### ⚙️ 백엔드
 
-|          [고재민](https://github.com/Gozen03)          |          [김한결](https://github.com/Toypiles)          |          [김현민](https://github.com/oosohow)          |          [박성준](https://github.com/seongjunpark1)          |           [박해정](https://github.com/hj53)          |      
-| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
-| <img src="https://github.com/Gozen03.png" width="120"> | <img src="https://github.com/Toypiles.png" width="120"> | <img src="https://github.com/oosohow.png" width="120">  | <img src="https://github.com/seongjunpark1.png" width="120"> | <img src="https://github.com/hj53.png" width="120"> |
+|          [고재민](https://github.com/Gozen03)          |          [김한결](https://github.com/Toypiles)          |          [김현민](https://github.com/oosohow)          |          [박성준](https://github.com/seongjunpark1)          |  
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/Gozen03.png" width="120"> | <img src="https://github.com/Toypiles.png" width="120"> | <img src="https://github.com/oosohow.png" width="120">  | <img src="https://github.com/seongjunpark1.png" width="120"> |
 
-|          [양태윤](https://github.com/yangty07)          |          [장진혁](https://github.com/SalmonTuna04)          |          [전천우](https://github.com/i1000u)          |           [최성혁](https://github.com/choisunghyeok38)          |      
+|           [박해정](https://github.com/hj53)          |          [장진혁](https://github.com/SalmonTuna04)          |          [전천우](https://github.com/i1000u)          |           [최성혁](https://github.com/choisunghyeok38)          |      
 | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |  :----------------------------------------------------------: |
-| <img src="https://github.com/yangty07.png" width="120"> | <img src="https://github.com/SalmonTuna04.png" width="120">  | <img src="https://github.com/i1000u.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> |
+| <img src="https://github.com/hj53.png" width="120"> | <img src="https://github.com/SalmonTuna04.png" width="120">  | <img src="https://github.com/i1000u.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> |
 
 ### 🤖 AI  
 
